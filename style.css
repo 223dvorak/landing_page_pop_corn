@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+}
+
+.piano {
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  position: relative;
+  top: 200px;
+  background-size: 500px;
+}
